@@ -17,5 +17,5 @@ assets, styles, index.html, and JavaScript.
 <br />
 
 <p align="center">
-<img align="center" src="imgcompra.png" alt="compra"/>
+<img align="center" src="img/compra.png" alt="compra"/>
 </p>
